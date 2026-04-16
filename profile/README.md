@@ -24,3 +24,7 @@
 \[推广\]在组织内开源的校园墙类小程序，欢迎试用：
 
 <img width="100" src="https://github.com/user-attachments/assets/16cfc02c-7306-40fc-b44f-1627695edaa3">
+
+\[社区\] 欢迎加入神秘 Server
+
+[![Discord Banner](https://discordapp.com/api/guilds/999829984476659814/widget.png?style=banner2)](https://discord.gg/5MtNmFRuVa)
