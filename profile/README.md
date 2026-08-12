@@ -1,6 +1,5 @@
 👋 你好，我们是宁波诺丁汉大学计算机爱好者协会！  
 👋 Hi, we are Computer Psychologist Union of UNNC!  
-🌍 中文 | [English](/README_en.md)
   
 ### Touch us / 联系我们
 
