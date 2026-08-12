@@ -5,8 +5,11 @@
 ### Touch us / 联系我们
 
 📮 Email: [computerpsychounion@nottingham.edu.cn](mailto:computerpsychounion@nottingham.edu.cn)  
-📱 WeChat Official Account: 宁诺CPU  
-📌 CPU_Tech_Forum: [CPU_Tech_Forum](https://comppsyunion.github.io/CPU_Tech_Forum/)
+📱 WeChat Official Account: `宁诺CPU`
+
+📌 Past CPU Weekly Sessions: 
+   - [AY2425 Weekly Sessions](https://github.com/CompPsyUnion/2425-weekly-session)
+   - [AY2526 Weekly Sessions](https://github.com/CompPsyUnion/2526-weekly-session)
 
 ### Join us / 加入我们
 我们会在每个秋季学期和春季学期初进行统一成员招募。  
